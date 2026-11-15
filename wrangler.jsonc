@@ -1,0 +1,11 @@
+{
+  "name": "landing-kateryna",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  // Не стирати змінні, додані вручну в панелі Cloudflare, під час нового деплою
+  "keep_vars": true
+}

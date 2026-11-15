@@ -60,3 +60,5 @@ functions/api/lead.js    — обробник форми (Cloudflare Pages Funct
 - **Колір рожевого** — змінна `--pink` на початку стилів.
 
 Кожен push у GitHub автоматично оновлює сайт.
+
+
